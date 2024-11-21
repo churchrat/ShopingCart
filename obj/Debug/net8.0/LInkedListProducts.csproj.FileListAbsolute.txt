@@ -1,0 +1,14 @@
+D:\homeworke\LInkedListProducts\bin\Debug\net8.0\LInkedListProducts.exe
+D:\homeworke\LInkedListProducts\bin\Debug\net8.0\LInkedListProducts.deps.json
+D:\homeworke\LInkedListProducts\bin\Debug\net8.0\LInkedListProducts.runtimeconfig.json
+D:\homeworke\LInkedListProducts\bin\Debug\net8.0\LInkedListProducts.dll
+D:\homeworke\LInkedListProducts\bin\Debug\net8.0\LInkedListProducts.pdb
+D:\homeworke\LInkedListProducts\obj\Debug\net8.0\LInkedListProducts.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\LInkedListProducts\obj\Debug\net8.0\LInkedListProducts.AssemblyInfoInputs.cache
+D:\homeworke\LInkedListProducts\obj\Debug\net8.0\LInkedListProducts.AssemblyInfo.cs
+D:\homeworke\LInkedListProducts\obj\Debug\net8.0\LInkedListProducts.csproj.CoreCompileInputs.cache
+D:\homeworke\LInkedListProducts\obj\Debug\net8.0\LInkedListProducts.dll
+D:\homeworke\LInkedListProducts\obj\Debug\net8.0\refint\LInkedListProducts.dll
+D:\homeworke\LInkedListProducts\obj\Debug\net8.0\LInkedListProducts.pdb
+D:\homeworke\LInkedListProducts\obj\Debug\net8.0\LInkedListProducts.genruntimeconfig.cache
+D:\homeworke\LInkedListProducts\obj\Debug\net8.0\ref\LInkedListProducts.dll
